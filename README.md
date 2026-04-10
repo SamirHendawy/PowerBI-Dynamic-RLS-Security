@@ -84,4 +84,4 @@ Used the **"View as"** feature in Power BI to validate that the security logic h
 |-------|------|
 | **Name** | Samir Hendawy |
 | **Role** | Data Analyst / Analytics Engineer |
-| **Connect** | [LinkedIn](https://www.linkedin.com) |
+| **Connect** | [LinkedIn](https://www.linkedin.com/in/samir-hendawy-530124231/) |
